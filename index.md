@@ -2,8 +2,7 @@
 
 ---
 
-### Microsoft 3D Model Display v3
-
+### OSI Demo V3
 <a href="https://osicreative.com">OSI Building Brands; Growing Business</a> 
   <br><br>
 <!--### OSI Building Brands; Growing Business(/https://osicreative.com/)-->
