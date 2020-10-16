@@ -1,11 +1,13 @@
-## AVERtek 
+## ONE SOURCE INDUSTRIES, LLC. 
 
 ---
 
-### Microsoft Display Demo v3
+### Microsoft 3D Model Display v3
 
-<!--[OSI Building Brands; Growing Business](/https://osicreative.com/)-->
-<!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+<a href="https://osicreative.com">OSI Building Brands; Growing Business</a> 
+  <br><br>
+<!--### OSI Building Brands; Growing Business(/https://osicreative.com/)-->
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 
 
@@ -30,7 +32,7 @@
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
 
-<model-viewer id="reveal" loading="eager" src="Models/SIF_Table_BBY_10_07_2020_LoPoly.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="SIF_Table_BBY_10_07_2020_LoPoly.usdz" alt="OSI DemoV3" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls=""  style="width: 95%; height: 500px" exposure="0.5"> 
+<model-viewer id="reveal" loading="eager" src="Models/SIF_Table_BBY_10_07_2020_LoPoly.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="SIF_Table_BBY_10_07_2020_LoPoly.usdz" alt="OSI Demo V3" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> 
 </model-viewer>
 
 <!-- Loads <model-viewer> for modern browsers: -->
